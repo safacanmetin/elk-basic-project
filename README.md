@@ -1,4 +1,4 @@
-ELK Stack Basic Project 
+*** ELK Stack Basic Project 
 
 - Set Up Docker Environment
   - Create a Docker Compose File
