@@ -1,0 +1,4 @@
+"@timestamp","_id","_index","_score","_type",loglevel,message
+"Jul 22, 2024 @ 10:10:00.000","-o4l15ABgGNQUXwZ4jl4","sample.log","-","_doc",WARN,"2024-07-22 10:10:00 WARN  This is a warning"
+"Jul 22, 2024 @ 10:05:00.000","-Y4l15ABgGNQUXwZ4jl4","sample.log","-","_doc",ERROR,"2024-07-22 10:05:00 ERROR Something went wrong"
+"Jul 22, 2024 @ 10:00:00.000","-I4l15ABgGNQUXwZ4jl4","sample.log","-","_doc",INFO,"2024-07-22 10:00:00 INFO  This is a sample log entry"
