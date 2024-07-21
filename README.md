@@ -1,8 +1,8 @@
 ELK Stack Basic Project 
 
 - Set Up Docker Environment
--     Create a Docker Compose File
--     Create Logstash Pipeline Configuration
+  - Create a Docker Compose File
+  - Create Logstash Pipeline Configuration
 - Start the ELK Stack
 -     Run Docker Compose
 - Prepare Sample Log Data
