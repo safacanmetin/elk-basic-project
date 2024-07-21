@@ -28,3 +28,5 @@ ELK Stack Basic Project
 ![image](https://github.com/user-attachments/assets/e3141bb1-eda9-4f20-90fe-4be5138037b7)
 
 ![image](https://github.com/user-attachments/assets/b02db593-8cf2-4bb4-a3b3-eeb78fed8cae)
+
+![image](https://github.com/user-attachments/assets/80c834f0-96c0-40e5-8582-5a0470734761)
