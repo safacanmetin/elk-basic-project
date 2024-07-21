@@ -17,7 +17,7 @@ ELK Stack Basic Project
     -     docker logs -f logstash
 - Access Kibana
   - Open Kibana:
-  -     http://localhost:5601
+    -     http://localhost:5601
   - Configure Index Pattern
 - Visualize the Logs
   - Discover Logs
