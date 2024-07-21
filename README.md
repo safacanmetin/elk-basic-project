@@ -11,7 +11,9 @@ ELK Stack Basic Project
   - Copy the Sample Log File
 - Verify Logstash Configuration
   - Restart Logstash
+    -     docker-compose restart logstash
   - Check Logstash Logs
+    -     docker logs -f logstash
 - Access Kibana
   - Open Kibana:
   -     http://localhost:5601
