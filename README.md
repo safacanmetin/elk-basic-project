@@ -9,6 +9,7 @@ ELK Stack Basic Project
   - Create a Sample Log File
   - Update Logstash Pipeline Configuration
   - Copy the Sample Log File
+    -     docker cp sample.log logstash:<your_path_to_sample_log_file>/sample.log
 - Verify Logstash Configuration
   - Restart Logstash
     -     docker-compose restart logstash
